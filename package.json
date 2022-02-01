@@ -1,0 +1,22 @@
+{
+  "name": "51p-node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reimondas/type5_node2_express.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "R.N.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reimondas/type5_node2_express/issues"
+  },
+  "homepage": "https://github.com/Reimondas/type5_node2_express#readme"
+}
